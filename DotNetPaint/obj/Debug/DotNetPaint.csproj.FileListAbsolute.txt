@@ -1,0 +1,16 @@
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\bin\Debug\DotNetPaint.exe.config
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\bin\Debug\DotNetPaint.exe
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\bin\Debug\DotNetPaint.pdb
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.csprojResolveAssemblyReference.cache
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\MainWindow.g.cs
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\App.g.cs
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint_MarkupCompile.cache
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint_MarkupCompile.lref
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\MainWindow.baml
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.g.resources
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.AboutBox.resources
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.Properties.Resources.resources
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.csproj.GenerateResource.Cache
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.exe
+C:\Users\bobby\OneDrive\Documents\dotnetpaint\trunk\DotNetPaint\DotNetPaint\obj\Debug\DotNetPaint.pdb
